@@ -150,7 +150,20 @@ body{
     margin-top: 57px;
 }
 
-.z-index-1{
-    z-index: -1; 
+.icon-back{
+    bottom: 210px;
+    left: 340px;
 }
 
+.footer{
+    background: #384685;
+    font-family: 'PT Sans';
+    color: #FFFFFF;
+}
+
+.footer-info{
+    width: 566px;
+}
+.footer-p{
+    font-family: 'PT Sans';
+}
