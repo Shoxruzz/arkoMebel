@@ -167,3 +167,7 @@ body{
 .footer-p{
     font-family: 'PT Sans';
 }
+
+.footer-last{
+    padding-right: 99px;
+}
